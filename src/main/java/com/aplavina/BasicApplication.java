@@ -1,4 +1,4 @@
-package com.example;
+package com.aplavina;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
